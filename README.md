@@ -2,4 +2,4 @@
 
 This branch contains assets for pages.
 
-See https://nhma20.github.io/radar_cable_follower/ for the website.
+See https://DIII-SDU.github.io/radar_cable_follower/ for the website.
